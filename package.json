@@ -1,0 +1,28 @@
+{
+  "name": "learningphaser",
+  "version": "1.0.0",
+  "description": "Learning how to use phaser and walking through the initial tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "phaser": "^3.54.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BriannaBaldwin/learningPhaser.git"
+  },
+  "keywords": [
+    "phaser",
+    "tutorial",
+    "learning"
+  ],
+  "author": "Briann Baldwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BriannaBaldwin/learningPhaser/issues"
+  },
+  "homepage": "https://github.com/BriannaBaldwin/learningPhaser#readme"
+}
